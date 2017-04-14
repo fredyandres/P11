@@ -78,7 +78,7 @@
         <li> Refrigerar por 3 horas y servir frío. </li>
         </ol>
  	    </p>
-		 <p> Esta fácil receta es una contribución de Janeth Patricia cambio 1 24042017. </p>
+		 <p> Esta fácil receta es una contribución de Janeth Patricia cambio 2 24042017. </p>
 		</p>
 	</article>
 </section>
